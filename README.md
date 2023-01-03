@@ -28,6 +28,8 @@ Assignement 5
  
   -File: Assignement_20_NM_Capstone_project_EDA.ipynb
   
+  -Data File: Risk.csv
+  
   Description: Capstone Project 20.1: Initial Report and Exploratory Data Analysis (EDA)
   
   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -39,6 +41,8 @@ Assignement 5
   Description: Capstone Project 24.1: Final Report - KBQS Methodology
   
     -File: KBQS - Capstone Project 24.1: Report
+    
+      -Data File: Risk.csv
     
     -File: KBQS - Non-technical Presentation
       Description:problem, solutions, important findings, and suggestions for the next steps
