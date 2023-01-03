@@ -38,9 +38,9 @@ Assignement 5
  
   Description: Capstone Project 24.1: Final Report - KBQS Methodology
   
-    -File: Capstone Project 24.1: Report
+    -File: KBQS - Capstone Project 24.1: Report
     
-    -File: Non-technical Presentation
+    -File: KBQS - Non-technical Presentation
       Description:problem, solutions, important findings, and suggestions for the next steps
       
   Jupiter Notebooks
