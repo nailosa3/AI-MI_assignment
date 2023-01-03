@@ -26,7 +26,7 @@ Assignement 5
   
  Assignement 20
  
-  -File: Capstone project Assignement 20 NM.ipynb
+  -File: Assignement_20_NM_Capstone_project_EDA.ipynb
   
   Description: Capstone Project 20.1: Initial Report and Exploratory Data Analysis (EDA)
   
@@ -45,4 +45,4 @@ Assignement 5
       
   Jupiter Notebooks
   
-    -File:Capstone project Assignement 24 NM.ipynb
+    -File: Assignment_24_NM_Capstone_project.ipynb
