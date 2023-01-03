@@ -7,18 +7,21 @@ Assignement 5
   
   -File: Assignement 5 NM
  
+ xxxxxxxxx
  
  
  Assignement 11
   
   -File: Assignement 11 NM.ipynb
   
+  xxxxxxxxxx
   
   
  Assignement 17
  
   -File: Assignement 17 NM.ipynb
   
+  xxxxxxxxxxx
   
   
  Assignement 20
@@ -26,6 +29,8 @@ Assignement 5
   -File: Capstone project Assignement 20 NM.ipynb
   
   Description: Capstone Project 20.1: Initial Report and Exploratory Data Analysis (EDA)
+  
+  xxxxxxxxxxx
   
   
   
