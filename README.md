@@ -31,7 +31,7 @@ Assignement 5
   
  Assignement 24
  
-  Description: Capstone Project 20.1: Initial Report and Exploratory Data Analysis (EDA)
+  Description: Capstone Project 24.1: Final Report - KBQS Methodology
   
     -File: Capstone Project 24.1: Report
     
